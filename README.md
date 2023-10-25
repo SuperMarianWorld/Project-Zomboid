@@ -7,4 +7,8 @@ Creado con el fin de aportar algo a la comunidad gamer de Project Zomboid. Adem�
 
 3. Créditos y Derechos reservados a sus respectivos autores. Estimado autor, en caso que no desee que su creación esté en éste repositorio, hágamelo saber y lo bajaré.
 
-4. No ofrezco ni publico ninguna versión pirata del juego en éste repositorio ni aliento a buscar o hacerlo, ni comparto ni tengo subido mingun archivo base del juego. Todo lo que he mencionado en éste punto constituye un delito o serie de delitos y está gravemente penalizado. No comprometa mi mi condición civil, vuelvo a repetir: Todo lo que está aquí subido son mods, ideas, creaciones, arte, entretenimiento, etc... Éste espacio representa para mí un espacio de relax y entretenimiento.
+4. No ofrezco ni publico ninguna versión pirata del juego en éste repositorio ni aliento a buscar o hacerlo, ni comparto ni tengo subido ningún archivo base del juego. Todo lo que he mencionado en éste punto constituye un delito o concurso de delitos y está gravemente penalizado. No comprometa mi condición civil, vuelvo a repetir: Todo lo que está aquí subido son mods, ideas, creaciones, arte, entretenimiento, etc... Éste espacio representa para mí un espacio de relax y entretenimiento.
+
+
+
+
